@@ -9,4 +9,6 @@
 * Manually implement the SGD and logistic regression model to  make a prediction
 * optimize the hyperparameter with grid search algorithm
 
-## Project 3
+## Project 3: digits recognition
+* Given the digits photo, recognize the digit number on the photo
+* Utilized the convolution neural network and the accuracy is 99.5%
